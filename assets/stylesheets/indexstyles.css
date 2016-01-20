@@ -1,0 +1,39 @@
+body{
+	background-color:lightgray;
+	font-family: Arial; 
+	background-image: 
+}
+
+
+h1 {
+	color: violet;
+	text-align: center;
+	font-family: Arial;
+	position: center;
+	font-size: 50px;
+
+}
+
+.picLeft{
+	float:center;
+	position: center;
+}
+.picRight{
+	float: center;
+	padding-top: 50px;
+	position: center;
+}
+
+p{
+	color: navy;
+	text-align:center;
+	padding: 100px;
+
+
+}
+h3{
+	color: violet;
+	text-align: center;
+}
+
+ 
